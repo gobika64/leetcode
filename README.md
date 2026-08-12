@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/gobika64/leetcode/tree/master/0041-first-missing-positive) |
 | [0334-increasing-triplet-subsequence](https://github.com/gobika64/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gobika64/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/gobika64/leetcode/tree/master/0443-string-compression) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/gobika64/leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
